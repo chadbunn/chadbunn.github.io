@@ -1,7 +1,13 @@
 a {
    font-family: 'Exo';
-   font-size: 2em;
-   font-weight: bold;
-   color: #3D5C99;
+   font-size: 1em;
+   font-weight: normal;
+   color: #8598BF;
    text-decoration:none;
+}
+h1 {
+   font-family: 'Exo';
+   font-size: 1.5em;
+   font-weight: bold;
+   color: #3D5C99; 	
 }

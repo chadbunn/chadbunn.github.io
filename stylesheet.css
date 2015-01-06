@@ -24,3 +24,10 @@ p {
    color: #3D5C99;
    text-align: center;
 }
+div {
+  text-align:center;
+  width:100%;
+}
+iframe {
+  width: 500px;
+}

@@ -17,3 +17,9 @@ a:hover {
    color: #1e2e4c;
    font-size: 1.25em;
 }
+p {
+   font-family: 'Exo';
+   font-size: .75em;
+   font-weight: normal;
+   color: #3D5C99;
+}

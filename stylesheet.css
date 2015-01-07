@@ -13,6 +13,13 @@ h1 {
    color: #3D5C99;
    text-align: center;
 }
+h2 {
+   font-family: 'Exo';
+   font-size: 1.75em;
+   font-weight: bold;
+   color: #3D5C99;
+   text-align: center;
+}
 
 a:hover {
    font-weight:bold;

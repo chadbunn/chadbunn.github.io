@@ -1,5 +1,5 @@
 a {
-   font-family: 'Exo';
+   font-family: 'Exo', 'Open Sans', sans-serif;
    font-size: 1em;
    font-weight: normal;
    color: #30497a;
@@ -7,14 +7,14 @@ a {
    text-align: center;
 }
 h1 {
-   font-family: 'Exo';
+   font-family: 'Exo', 'Open Sans', sans-serif;
    font-size: 1.5em;
    font-weight: bold;
    color: #3D5C99;
    text-align: center;
 }
 h2 {
-   font-family: 'Exo';
+   font-family: 'Exo', 'Open Sans', sans-serif;
    font-size: 1.85em;
    font-weight: bold;
    color: #3D5C99;
@@ -27,7 +27,7 @@ a:hover {
    font-size: 1.25em;
 }
 p {
-   font-family: 'Exo';
+   font-family: 'Exo', 'Open Sans', sans-serif;
    font-size: 1em;
    font-weight: normal;
    color: #3D5C99;
